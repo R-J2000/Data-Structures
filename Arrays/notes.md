@@ -27,3 +27,5 @@ Dynamic Array:
     c. Insertion --> O(n)
     d. Appending --> O(1)
     e. Deletion --> O(n) 
+
+**Heterogeneous and Homogeneous Data Types** - Arrays in different languages have different functionalities; in Java and Swift one can only store one type of value in an array; in Python many different kinds of values can be stored. Both these approaches have advantages and disadvantages. A key advantage of homogeneous arrays is that all values can be stored in a contiguous block of memory. For heterogeneous arrays this is not possible. Python, therefore, stores references to the distinct types of objects in the array and stores the actual object at different spots. 
