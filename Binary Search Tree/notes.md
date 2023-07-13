@@ -56,6 +56,7 @@ Removal in a Binary Search Tree:
 **Binary Search Trees Traversal**
 
 Sample Tree:
+
       4
     /   \
    2     6
