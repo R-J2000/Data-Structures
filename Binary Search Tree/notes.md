@@ -59,8 +59,11 @@ Sample Tree:
 
       4
     /   \
+    
    2     6
+   
   / \   / \
+  
  1   3 5   7
 
 Preorder Traversal:
