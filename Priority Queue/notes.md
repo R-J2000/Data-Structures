@@ -8,10 +8,10 @@ Note: The Data must be comparable in order to establish a priority
 
 Use Cases:
 
-    a. Used in some Dijkstra's Shortest Path Algorithim Implementations
+    a. Used in some Dijkstra's Shortest Path Algorithm Implementations
     b. Anytime you want to fetch the next "best" or next "worst" element
-    c. Minimum Spanning Tree Algorithims
-    d. Used in BFS algorithims such as A*
+    c. Minimum Spanning Tree Algorithms
+    d. Used in BFS algorithms such as A*
 
 Operation Costs:
 
