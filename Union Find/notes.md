@@ -11,7 +11,7 @@ The key operations in the Union-Find data structure are:
 
 Use Cases:
 
-    a. Kruskal's Minimum Spanning Tree Algorithim
+    a. Kruskal's Minimum Spanning Tree Algorithm
     b. Network Connectivity
     c. Least Common Ancestor in Trees
     
