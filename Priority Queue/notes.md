@@ -1,8 +1,8 @@
-#### Priority Queue [See Attached Images]
+#### Priority Queue 
 
 A priority queue is an abstract data type that resembles a normal queue, but with each element assigned a specific priority. The priority assigned to an element determines the order in which it is removed from the priority queue. Elements with higher priority are dequeued before elements with lower priority. 
 
-**Heap** -  A tree based data structure that satisfies the heap invariant/property. If A is a parent node of B, then A much be ordered relative to B (either greater than or less than), and this same order must hold for all Parent-Child nodes. [See Attached Images]
+**Heap** -  A tree based data structure that satisfies the heap invariant/property. If A is a parent node of B, then A much be ordered relative to B (either greater than or less than), and this same order must hold for all Parent-Child nodes. 
 
 Note: The Data must be comparable in order to establish a priority
 
