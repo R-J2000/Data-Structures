@@ -1,9 +1,8 @@
 #### Binary Search Tree
-[See Attached Pictures]
 
 **Binary Tree** - A binary tree is a type of data structure in which each node can have at most two children, referred to as the left child and the right child. It is a recursive data structure where each node in the tree represents an element, and the connections between nodes represent the relationships between those elements.
 
-The structure of a binary tree can be visualized as a collection of nodes connected by edges. The topmost node in the tree is called the root node, and from there, each node can have a left child, a right child, or both. The nodes without any children are known as leaf nodes or external nodes. The path from the root to any leaf node forms a unique sequence of nodes, also known as a path or a branch. [See Attached Pictures]
+The structure of a binary tree can be visualized as a collection of nodes connected by edges. The topmost node in the tree is called the root node, and from there, each node can have a left child, a right child, or both. The nodes without any children are known as leaf nodes or external nodes. The path from the root to any leaf node forms a unique sequence of nodes, also known as a path or a branch. 
 
 **Binary Search Tree** - Binary search trees (BSTs) are a type of data structure used for efficient searching, insertion, and deletion operations on a collection of elements. They are organized in a hierarchical manner, where each element in the tree has at most two children, referred to as the left child and the right child. 
 
