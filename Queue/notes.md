@@ -1,6 +1,6 @@
 #### Queue
 
-A queue is a linear data structure that is open at both ends and the operations are performed in First-in-First-out (FIFO) order. We define a queue to be a list in which all additions to the list are made at one end, and all deletions from the list are made at the other end.  The element which is first pushed into the order, the delete operation is first performed on that. To remove an element you “dequeue” it from the Queue. To add an element to the stack, you “enqueue” it. [See Attached Images]
+A queue is a linear data structure that is open at both ends and the operations are performed in First-in-First-out (FIFO) order. We define a queue to be a list in which all additions to the list are made at one end, and all deletions from the list are made at the other end.  The element which is first pushed into the order, the delete operation is first performed on that. To remove an element you “dequeue” it from the Queue. To add an element to the stack, you “enqueue” it. 
 
 Use Cases:
 
