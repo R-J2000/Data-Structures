@@ -1,4 +1,4 @@
-#### Union Find [See Attached Pictures]
+#### Union Find 
 
 The Union-Find data structure, also known as the disjoint-set data structure, is a data structure used to efficiently manage a partitioning of elements into disjoint sets. It keeps track of a collection of disjoint sets, where each set contains a group of elements.
 
