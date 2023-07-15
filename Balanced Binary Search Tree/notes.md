@@ -57,7 +57,7 @@ Example:
          / \               / \
         T2  T3            T1  T2
 
-#### AVL Trees [See attached Illustrations]
+#### AVL Trees 
 
 An AVL tree is a type of self-balancing binary search tree (BST) that maintains its balance by ensuring that the heights of the left and right subtrees of any node differ by at most 1. It is named after its inventors, Adelson-Velsky and Landis. The self-balancing property of AVL trees helps guarantee efficient search, insertion, and deletion operations with a worst-case time complexity of O(log n), where n is the number of nodes in the tree.
 
@@ -70,7 +70,7 @@ The key features of an AVL tree are as follows:
         during insertions or deletions. The rotations adjust the tree's structure to maintain the balance condition while preserving the BST 
         property.
 
-    c. Balancing Rotations: AVL trees use four types of rotations to restore balance: [See attached Illustrations]
+    c. Balancing Rotations: AVL trees use four types of rotations to restore balance: 
 
         i. Left Rotation: Performed when the right subtree of a node becomes taller.
         ii. Right Rotation: Performed when the left subtree of a node becomes taller.
